@@ -21,4 +21,10 @@ Bringing Home the Bacon is a sidescroller game borne of my love for the genre wh
   * <a href="https://angel.co/u/harsha-bandi">AngelList</a>
   * <a href="https://twitter.com/ggharsha">Twitter</a>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggharsha)](https://github.com/anuraghazra/github-readme-stats) -->
+<details>
+ <summary>📈 Statistics</summary>
+<img alt="Harsha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggharsha" />
+ 
+<img alt="Harsha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ggharsha" />
+
+</details>
