@@ -17,7 +17,7 @@ codeUps is a code-mentorship platform, where users and tutors can sign up in ord
 Bringing Home the Bacon is a sidescroller game borne of my love for the genre when growing up with series such as Mario and Sonic the Hedgehog. In this game, the player will take control of the pig as it tries to escape the angry butcher, all while avoiding obstacles along the way. The game consists of levels that should be progressively more and more challenging and will introduce more and more obstacles along the way.
 
 ### Keep in touch with me here!
-  * <a href="https://linkedin/in/ggharsha">LinkedIn</a>
+  * <a href="https://linkedin.com/in/ggharsha">LinkedIn</a>
   * <a href="https://angel.co/u/harsha-bandi">AngelList</a>
   * <a href="https://twitter.com/ggharsha">Twitter</a>
 
