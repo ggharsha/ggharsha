@@ -6,15 +6,21 @@ You can check out some of my projects here:
 
 <h3>💬 <a href="https://disc-o.herokuapp.com/#/">Disco</a></h3>
 
-Disco is a full stack clone of Discord, the popular web chat application, where users can register, create/join servers, and send each other messages in real-time either in private DMs or in public servers. 
+Disco is a full stack clone of Discord, the popular web chat application, where users can register, create/join servers, and send each other messages in real-time either in private DMs or in public servers. Disco features functional websockets to update shared state for all users whenever messages are sent. 
+
+Technologies: *Ruby, Ruby on Rails, React.js, Redux.js, HTML, CSS / SCSS, ActionCable, ActiveRecord, PostgreSQL, Jbuilder, JavaScript, Postman, Redis, Git, AWS, Heroku*
 
 <h3>💻 <a href="https://codeups.herokuapp.com/">codeUps</a></h3>
 
-codeUps is a code-mentorship platform, where users and tutors can sign up in order to connect with one another. Tutors can upload examples of their work in order for students to decide if their teaching style is the right fit, while the platform also features filtered search to find tutors or videos by username, title, or language.
+codeUps is a code-mentorship platform, where users and tutors can sign up in order to connect with one another. Tutors can upload examples of their work in order for students to decide if their teaching style is the right fit, while the platform also features filtered search to find tutors or videos by username, title, or language. 
+
+Technologies: *MongoDB, Mongoose ODM, Express.js, Node.js, React.js, Redux.js, HTML, CSS / SCSS, Git, AWS, Heroku*
 
 <h3>🥓 <a href="https://ggharsha.github.io/bringing_home_the_bacon/">Bringing Home the Bacon</a></h3>
 
-Bringing Home the Bacon is a sidescroller game borne of my love for the genre when growing up with series such as Mario and Sonic the Hedgehog. In this game, the player will take control of the pig as it tries to escape the angry butcher, all while avoiding obstacles along the way. The game consists of levels that are progressively more and more challenging and will introduce more and more obstacles along the way.
+Bringing Home the Bacon is a sidescroller game borne of my love for the genre when growing up with series such as Mario and Sonic the Hedgehog. In this game, the player will take control of the pig as it tries to escape the angry butcher, all while avoiding obstacles along the way. The game consists of levels that are progressively more and more challenging and will introduce more and more obstacles along the way. 
+
+Technologies: *JavaScript, jQuery, Canvas API, HTML, CSS / SCSS, Git*
 
 ### Keep in touch with me here!
   * <a href="https://linkedin.com/in/ggharsha">LinkedIn</a>
