@@ -30,7 +30,7 @@ Technologies: *JavaScript, jQuery, Canvas API, HTML, CSS / SCSS, Git*
 <details>
  <summary>📈 Statistics</summary>
 <br />
-<img alt="Harsha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggharsha" />
+<img alt="Harsha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggharsha&theme=dracula"" />
 <br />
-<img alt="Harsha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ggharsha" />
+<img alt="Harsha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ggharsha&show_icons=true&theme=dracula" />
 </details>
