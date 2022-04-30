@@ -1,6 +1,6 @@
 ### 👋 Hi there, my name is Harsha Bandi 
 
-I am a full stack software engineer, and I was previously a coach in esports. I'm comfortable in React.js, Redux.js, Ruby, Ruby on Rails, Express.js, Node.js, JavaScript, PostgreSQL, SQLite3, SQL, MongoDB, Mongoose ODM, ActiveRecord, ActionCable, HTML, CSS, SCSS, jQuery, Jbuilder, and AJAX! Looking to add Python and Java to my skillset in the near future.
+I am a software engineer, and I was previously a coach in esports. I'm comfortable in React.js, Redux.js, Ruby, Ruby on Rails, Express.js, Node.js, JavaScript, PostgreSQL, SQLite3, SQL, MongoDB, Mongoose ODM, ActiveRecord, ActionCable, HTML, CSS, SCSS, jQuery, Jbuilder, and AJAX! Learning Python and Java, and looking to add GO and C++ to my skillset in the future.
 
 You can check out some of my projects here:
 
