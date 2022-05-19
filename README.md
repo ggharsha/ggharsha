@@ -1,6 +1,6 @@
 ### 👋 Hi there, my name is Harsha Bandi 
 
-I am a software engineer at Google, and I was previously a coach in esports.
+I am a software engineer, and I was previously a coach in esports.
 
 You can check out some of my projects here:
 
